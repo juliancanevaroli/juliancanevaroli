@@ -1,6 +1,6 @@
 
 
-# Hello, World! Eu sou Julia N. Canevaroli
+# Hello, World! I'm Julia N. Canevaroli
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Técnica em **Desenvolvimento de Sistemas**  
