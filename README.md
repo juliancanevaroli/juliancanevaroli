@@ -34,24 +34,6 @@ Tenho interesse em desenvolvimento de software, especialmente em **projetos web 
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=juliancanevaroli&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-# 💻 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancanevaroli&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🔥 Consistência de commits
-
-![GitHub Streak](https://streak-stats.demolab.com?user=juliancanevaroli&theme=tokyonight&hide_border=true)
-
----
-
 # 🎯 Objetivo
 
 Buscando minha **primeira oportunidade como desenvolvedora**, onde eu possa aplicar meus conhecimentos, aprender com projetos reais e evoluir profissionalmente na área de tecnologia.
