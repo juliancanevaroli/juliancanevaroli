@@ -1,34 +1,41 @@
-
 # 👋 Olá! Eu sou a Julia N. Canevaroli
 
-🚀 **Desenvolvedora Full Stack em formação**  
-🎓 Estudante de **Ciência da Computação**  
-💻 Técnica em **Desenvolvimento de Sistemas**
-
-Tenho interesse em desenvolvimento de software, especialmente em **projetos web e backend**, sempre buscando aprender novas tecnologias e construir projetos práticos.
+🚀 Desenvolvedora Full Stack em formação  
+🎓 Estudante de Ciência da Computação  
+💻 Foco em desenvolvimento Web e Backend  
 
 ---
 
+## 🧠 Sobre mim
 
+Sou apaixonada por tecnologia e desenvolvimento de software. 
+Gosto de criar projetos práticos, aprender novas ferramentas e transformar ideias em aplicações reais.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# 🎯 Objetivo
+## 🎯 Objetivo
 
-Buscando minha **primeira oportunidade como desenvolvedora**, onde eu possa aplicar meus conhecimentos, aprender com projetos reais e evoluir profissionalmente na área de tecnologia.
+Busco minha primeira oportunidade como desenvolvedora para aplicar meus conhecimentos em projetos reais, 
+ganhar experiência profissional e evoluir profissionalmente na área de tecnologia.
 
 ---
 
-⭐ Sempre aprendendo e desenvolvendo novos projetos.
+## 📊 Estatísticas
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+💡 Sempre aprendendo e desenvolvendo novos projetos.
