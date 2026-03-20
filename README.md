@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Julia N. Canevaroli
+# Olá! Eu sou a Julia N. Canevaroli
 
 🚀 Desenvolvedora Full Stack em formação  
 🎓 Estudante de Ciência da Computação  
