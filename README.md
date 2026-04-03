@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Julia N. Canevaroli </h1>
 
 <p align="center">
-  <em>Desenvolvedora Full Stack em formação • Estudante de Ciência da Computação /em>
+  <em>Desenvolvedora Full Stack em formação • Estudante de Ciência da Computação</em>
 </p>
 
 ---
@@ -34,15 +34,6 @@ Sou apaixonada por tecnologia e desenvolvimento de software. Gosto de criar proj
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliancanevaroli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancanevaroli&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
