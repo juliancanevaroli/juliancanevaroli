@@ -44,8 +44,4 @@ Busco minha primeira oportunidade como desenvolvedora Full Stack para aplicar me
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juliancanevaroli&color=blueviolet&style=flat-square&label=Visitas+no+perfil"/>
-</p>
-
 <p align="center">💜 Sempre aprendendo e desenvolvendo novos projetos.</p>
