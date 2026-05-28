@@ -40,8 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=juliacanevaroli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacanevaroli&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=juliacanevaroli&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
