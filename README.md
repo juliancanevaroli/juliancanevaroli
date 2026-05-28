@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=juliacanevaroli&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-
----
 
 ### 🚀 Projetos em destaque
 
