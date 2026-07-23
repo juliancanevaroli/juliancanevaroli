@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Técnica em Desenvolvimento de Sistemas (ETEC) · Cursando Ciência da Computação (UNIP)
+- 🎓 Técnica em Desenvolvimento de Sistemas · Cursando Ciência da Computação 
 - 💻 Desenvolvo aplicações web full stack com PHP, JavaScript e MySQL
 - 🎯 Buscando meu primeiro estágio em desenvolvimento web
 - 📍 São José do Rio Preto — SP
