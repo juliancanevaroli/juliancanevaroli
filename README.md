@@ -10,7 +10,7 @@
 
 - 🎓 Técnica em Desenvolvimento de Sistemas · Cursando Ciência da Computação 
 - 💻 Desenvolvo aplicações web full stack com PHP, JavaScript e MySQL
-- 🎯 Buscando meu primeiro estágio em desenvolvimento web
+- 🎯 Buscando meu primeiro estágio 
 - 📍 São José do Rio Preto — SP
 
 ---
